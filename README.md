@@ -4,6 +4,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
+    ![alt tex](?https://github.com/mallifa/Sistem-Akuntansi/blob/main/Screenshot%202023-11-30%20210523.pngraw=true)
 </p>
 
 ## Cara Install Project DENGAN github desktop
