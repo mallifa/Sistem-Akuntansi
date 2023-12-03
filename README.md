@@ -1,3 +1,4 @@
+<img width="398" alt="Screenshot 2023-12-03 182455" src="https://github.com/mallifa/Sistem-Akuntansi/assets/152131831/062e3236-f072-4ab7-b3d9-45351df41f67">
 ![Screenshot (7)](https://github.com/mallifa/Sistem-Akuntansi/assets/152131831/13ce7d74-a2ed-4777-b032-bf0724fd702d)<img width="794" alt="Screenshot 2023-11-30 210523" src="https://github.com/mallifa/Sistem-Akuntansi/assets/152131831/15122a18-53bc-4984-b959-4e0473da9ab2">
 
 <p align="center"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></p>
